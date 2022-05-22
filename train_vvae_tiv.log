@@ -1,0 +1,262 @@
+/home/wangzehao/.local/lib/python3.7/site-packages/torch/nn/_reduction.py:13: UserWarning: reduction='elementwise_mean' is deprecated, please use reduction='mean' instead.
+  warnings.warn("reduction='elementwise_mean' is deprecated, please use reduction='mean' instead.")
+batch loss: 0.71701
+0 -epoch Model saved!
+train:  0.26971572637557983
+test:  0.26809918880462646
+batch loss: 0.37110
+batch loss: 0.33086
+batch loss: 0.30314
+batch loss: 0.31951
+batch loss: 0.33079
+batch loss: 0.33124
+batch loss: 0.32284
+batch loss: 0.31019
+batch loss: 0.28592
+batch loss: 0.27505
+10 -epoch Model saved!
+train:  0.09859809279441833
+test:  0.10003992170095444
+batch loss: 0.27180
+batch loss: 0.25040
+batch loss: 0.24812
+batch loss: 0.22901
+batch loss: 0.22509
+batch loss: 0.24003
+batch loss: 0.20895
+batch loss: 0.20562
+batch loss: 0.20283
+batch loss: 0.21789
+20 -epoch Model saved!
+train:  0.05928819626569748
+test:  0.06962548196315765
+batch loss: 0.20418
+batch loss: 0.17510
+batch loss: 0.19842
+batch loss: 0.17363
+batch loss: 0.14976
+batch loss: 0.16331
+batch loss: 0.17258
+batch loss: 0.16183
+batch loss: 0.17777
+batch loss: 0.15536
+30 -epoch Model saved!
+train:  0.03921397402882576
+test:  0.059102050960063934
+batch loss: 0.14921
+batch loss: 0.15867
+batch loss: 0.14328
+batch loss: 0.16896
+batch loss: 0.13873
+batch loss: 0.13564
+batch loss: 0.12318
+batch loss: 0.12902
+batch loss: 0.12140
+batch loss: 0.13543
+40 -epoch Model saved!
+train:  0.024265190586447716
+test:  0.054056186228990555
+batch loss: 0.11765
+batch loss: 0.11254
+batch loss: 0.11162
+batch loss: 0.11636
+batch loss: 0.11438
+batch loss: 0.11838
+batch loss: 0.11469
+batch loss: 0.10876
+batch loss: 0.09639
+batch loss: 0.11500
+50 -epoch Model saved!
+train:  0.021805554628372192
+test:  0.0563679076731205
+batch loss: 0.12381
+batch loss: 0.20215
+batch loss: 0.12126
+batch loss: 0.17168
+batch loss: 0.12170
+batch loss: 0.11821
+batch loss: 0.10699
+batch loss: 0.11218
+batch loss: 0.12595
+batch loss: 0.17405
+60 -epoch Model saved!
+train:  0.02263975702226162
+test:  0.05730559304356575
+batch loss: 0.12792
+batch loss: 0.09612
+batch loss: 0.09849
+batch loss: 0.08712
+batch loss: 0.08983
+batch loss: 0.10193
+batch loss: 0.11557
+batch loss: 0.09459
+batch loss: 0.15028
+batch loss: 0.10387
+70 -epoch Model saved!
+train:  0.01231510378420353
+test:  0.05292817950248718
+batch loss: 0.09439
+batch loss: 0.09526
+batch loss: 0.08307
+batch loss: 0.08747
+batch loss: 0.08526
+batch loss: 0.08543
+batch loss: 0.07906
+batch loss: 0.07870
+batch loss: 0.10564
+batch loss: 0.08618
+80 -epoch Model saved!
+train:  0.007000000216066837
+test:  0.052658941596746445
+batch loss: 0.07306
+batch loss: 0.07942
+batch loss: 0.09356
+batch loss: 0.07466
+batch loss: 0.11656
+batch loss: 0.11608
+batch loss: 0.09746
+batch loss: 0.07905
+batch loss: 0.08046
+batch loss: 0.07942
+90 -epoch Model saved!
+train:  0.0059257810935378075
+test:  0.055044934153556824
+batch loss: 0.06487
+batch loss: 0.07483
+batch loss: 0.11353
+batch loss: 0.07658
+batch loss: 0.09621
+batch loss: 0.07991
+batch loss: 0.07194
+batch loss: 0.06183
+batch loss: 0.12930
+batch loss: 0.10080
+100 -epoch Model saved!
+train:  0.008213107474148273
+test:  0.05538380146026611
+batch loss: 0.07292
+batch loss: 0.07377
+batch loss: 0.06699
+batch loss: 0.06222
+batch loss: 0.06968
+batch loss: 0.07605
+batch loss: 0.06636
+batch loss: 0.05958
+batch loss: 0.13408
+batch loss: 0.55441
+110 -epoch Model saved!
+train:  0.030009983107447624
+test:  0.06498347222805023
+batch loss: 0.14415
+batch loss: 0.14774
+batch loss: 0.10023
+batch loss: 0.08492
+batch loss: 0.08876
+batch loss: 0.09351
+batch loss: 0.07853
+batch loss: 0.08909
+batch loss: 0.08803
+batch loss: 0.08516
+120 -epoch Model saved!
+train:  0.012763888575136662
+test:  0.05894886329770088
+batch loss: 0.11842
+batch loss: 0.08402
+batch loss: 0.06733
+batch loss: 0.06685
+batch loss: 0.08006
+batch loss: 0.06567
+batch loss: 0.06794
+batch loss: 0.10535
+batch loss: 0.07231
+batch loss: 0.06840
+130 -epoch Model saved!
+train:  0.0033810765016824007
+test:  0.05398191511631012
+batch loss: 0.07031
+batch loss: 0.07700
+batch loss: 0.06181
+batch loss: 0.06251
+batch loss: 0.07300
+batch loss: 0.06385
+batch loss: 0.06024
+batch loss: 0.07739
+batch loss: 0.06750
+batch loss: 0.06559
+140 -epoch Model saved!
+train:  0.010927082970738411
+test:  0.05973800644278526
+batch loss: 0.09791
+batch loss: 0.06652
+batch loss: 0.05988
+batch loss: 0.06399
+batch loss: 0.05818
+batch loss: 0.06334
+batch loss: 0.06753
+batch loss: 0.06474
+batch loss: 0.05970
+batch loss: 0.05984
+150 -epoch Model saved!
+train:  0.0020802952349185944
+test:  0.05554627254605293
+batch loss: 0.05347
+batch loss: 0.05910
+batch loss: 0.05898
+batch loss: 0.07263
+batch loss: 0.05333
+batch loss: 0.05732
+batch loss: 0.05773
+batch loss: 0.05487
+batch loss: 0.04913
+batch loss: 0.06713
+160 -epoch Model saved!
+train:  0.0019131944281980395
+test:  0.05537915974855423
+batch loss: 0.05210
+batch loss: 0.06030
+batch loss: 0.07035
+batch loss: 0.06145
+batch loss: 0.06053
+batch loss: 0.05553
+batch loss: 0.05719
+batch loss: 0.05244
+batch loss: 0.05428
+batch loss: 0.05356
+170 -epoch Model saved!
+train:  0.0017482638359069824
+test:  0.05432542413473129
+batch loss: 0.05636
+batch loss: 0.05425
+batch loss: 0.06288
+batch loss: 0.05476
+batch loss: 0.07164
+batch loss: 0.08311
+batch loss: 0.06608
+batch loss: 0.06135
+batch loss: 0.05647
+batch loss: 0.05950
+180 -epoch Model saved!
+train:  0.0019231770420446992
+test:  0.05658608302474022
+batch loss: 0.05633
+batch loss: 0.09675
+batch loss: 0.06388
+batch loss: 0.06361
+batch loss: 0.05526
+batch loss: 0.05712
+batch loss: 0.04964
+batch loss: 0.05210
+batch loss: 0.05111
+batch loss: 0.05616
+190 -epoch Model saved!
+train:  0.0016549478750675917
+test:  0.056131165474653244
+batch loss: 0.05973
+batch loss: 0.05269
+batch loss: 0.05101
+batch loss: 0.05047
+batch loss: 0.04969
+batch loss: 0.04941
+batch loss: 0.04950
+batch loss: 0.05000
+batch loss: 0.04563
